@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconsult_in_documentation=self.webpackChunkconsult_in_documentation||[]).push([[385],{8485:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/consult.IN-Documentation/blog/tags/hola","allTagsPath":"/consult.IN-Documentation/blog/tags","count":1,"unlisted":false}')}}]);

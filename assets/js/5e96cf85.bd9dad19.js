@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkconsult_in_documentation=self.webpackChunkconsult_in_documentation||[]).push([[526],{1496:o=>{o.exports=JSON.parse('{"permalink":"/consult.IN-Documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
